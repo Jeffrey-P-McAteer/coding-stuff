@@ -14,3 +14,6 @@ then type `.\gradlew.bat run`
 
 This will first download the `gradle` tool, then build the code, then run the code.
 
+![](screenshots/running_01.gif)
+
+_small text is due to running Arch Linux on a Retina Macbook so nothing scales properly_
